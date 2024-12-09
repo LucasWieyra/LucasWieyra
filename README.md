@@ -1,9 +1,9 @@
 ### Olá,Pessoal 👋
 
-- 🔭 Atualmente estou desempregado
+- 🔭 Analista KPI'S
 - 🌱 Estudando S.I (Sistemas da Informação)
 - 💬 Estudando Ingles & Espanhol
-- 📫 Contate-me Lucas.Wieyra.gmail.com
+- 📫 Contate-me Lucas.Wieyra@gmail.com
 - 😄 Pronomes: Ele/Dele
 
 <div>
