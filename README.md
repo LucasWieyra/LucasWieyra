@@ -2,7 +2,6 @@
 
 ## 🔭 Analista de KPI's | Estudante de Sistemas da Informação
 - 🌱 Estudando S.I (Sistemas da Informação)
-- 💬 Estudando Inglês & Espanhol
 - 📫 **Contate-me:** [lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)
 - 😄 **Pronomes:** Ele/Dele
 
@@ -72,8 +71,10 @@ Liderança na criação de uma solução de **gestão de pátio** que eliminou o
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
   <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/marclelijveld/Power-BI-Icons-Archived/blob/master/General%20Icons%20PNG/LogoBlack.png">
+  <img align="center" alt="Snowflake" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg">
+  <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_Excel_2013_logo.svg">
+  <img align="center" alt="Google Data Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Data_Studio_Logo_2020.svg">
+  <img align="center" alt="WMS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg">
+  <img align="center" alt="TMS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud/cloud-original.svg">
 </div>
 
----
-
-## Feito com :heart: e JavaScript
