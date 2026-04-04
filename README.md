@@ -1,6 +1,6 @@
 # Olá, Pessoal 👋
 
-## 🔭 Analista de KPI's | Estudante de Sistemas da Informação
+## 🔭 Analista de Dados | Estudante de Sistemas da Informação
 - 🌱 Estudando S.I (Sistemas da Informação)
 - 📫 **Contate-me:** [lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)
 - 😄 **Pronomes:** Ele/Dele
@@ -9,8 +9,8 @@
 
 ## Sobre Mim
 
-Oi, tudo bem? Eu sou o **[Lucas Vieira](https://www.linkedin.com/in/lucas-vieira-749a81199/)**!  
-Sou um **analista de KPI's** apaixonado por otimização de processos e automação. Com foco em dados e BI, estou sempre buscando melhorar operações logísticas e criar soluções inovadoras com ferramentas como Power BI, Power Automate, entre outras. Tenho experiência prática e estou sempre aprendendo e aplicando novos conceitos em minha carreira.
+Oi, tudo bem? Eu sou o **[Lucas Vieira](https://www.linkedin.com/in/lucas-vieira-ramos/)**!  
+Sou um **analista de Dados ** apaixonado por otimização de processos e automação. Com foco em dados e BI, estou sempre buscando melhorar operações logísticas e criar soluções inovadoras com ferramentas como Power BI, Power Automate, entre outras. Tenho experiência prática e estou sempre aprendendo e aplicando novos conceitos em minha carreira.
 
 ---
 
