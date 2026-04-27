@@ -73,10 +73,10 @@ Liderança na criação de uma solução de **gestão de pátio** que eliminou o
 
 ## 📊 Dados & BI
 
-<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
-<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
+<img src="[https://cdn.simpleicons.org/powerbi/F2C811](https://img.icons8.com/color/512/power-bi.png)" height="40"/>
+<img src="[https://cdn.simpleicons.org/microsoftexcel/217346](https://img.icons8.com/?size=100&id=y5utoW4FUM92&format=png&color=000000)" height="40"/>
 <img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="40"/>
+<img src="[https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg](https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/snowflake-color.png)" height="40"/>
 
 ---
 
