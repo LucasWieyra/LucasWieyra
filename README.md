@@ -63,24 +63,27 @@ Liderança na criação de uma solução de **gestão de pátio** que eliminou o
 
 <div align="center">
 
-💻 <b>Desenvolvimento</b><br>
-<img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-<img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-<img align="center" alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+## 💻 Desenvolvimento
 
-<br><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40"/>
 
-📊 <b>Dados & BI</b><br>
-<img align="center" alt="Power BI" height="40" width="40" src="https://cdn.simpleicons.org/powerbi">
-<img align="center" alt="Excel" height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel">
-<img align="center" alt="Looker Studio" height="40" width="40" src="https://cdn.simpleicons.org/googleanalytics">
-<img align="center" alt="Snowflake" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg">
+---
 
-<br><br>
+## 📊 Dados & BI
 
-🚚 <b>Logística & Sistemas</b><br>
-<img align="center" alt="Banco de Dados" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-<img align="center" alt="Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+<img src="https://cdn.simpleicons.org/powerbi/F2C811" height="40"/>
+<img src="https://cdn.simpleicons.org/microsoftexcel/217346" height="40"/>
+<img src="https://cdn.simpleicons.org/googleanalytics/E37400" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg" height="40"/>
+
+---
+
+## 🚚 Logística & Sistemas
+
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="40"/>
 
 </div>
 
