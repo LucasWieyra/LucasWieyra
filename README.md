@@ -49,16 +49,6 @@ Liderança na criação de uma solução de **gestão de pátio** que eliminou o
 
 ---
 
-## Estatísticas
-
-<div align="center">
-
-  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
----
-
 ## Ferramentas e Tecnologias
 
 <div align="center">
