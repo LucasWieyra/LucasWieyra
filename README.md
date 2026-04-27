@@ -9,8 +9,8 @@
 
 ## Sobre Mim
 
-Oi, tudo bem? Eu sou o **[Lucas Vieira](https://www.linkedin.com/in/lucas-vieira-ramos/)**!  
-Sou um **analista de Dados ** apaixonado por otimização de processos e automação. Com foco em dados e BI, estou sempre buscando melhorar operações logísticas e criar soluções inovadoras com ferramentas como Power BI, Power Automate, entre outras. Tenho experiência prática e estou sempre aprendendo e aplicando novos conceitos em minha carreira.
+Oi, tudo bem? Eu sou o **[Lucas Vieira](https://www.linkedin.com/in/lucas-vieira-ramos/)** !  
+Sou um **analista de Dados** apaixonado por otimização de processos e automação. Com foco em dados e BI, estou sempre buscando melhorar operações logísticas e criar soluções inovadoras com ferramentas como Power BI, Power Automate, entre outras. Tenho experiência prática e estou sempre aprendendo e aplicando novos conceitos em minha carreira.
 
 ---
 
@@ -41,14 +41,9 @@ Liderança na criação de uma solução de **gestão de pátio** que eliminou o
 
 ## Redes Sociais e Contato
 
-<a href="https://www.youtube.com/channel/UCwMUPIC4feul7-yckX6P0jw?sub_confirmation=1" target="_blank">
-  <img width="10%" src="https://img.shields.io/youtube/channel/subscribers/UCwMUPIC4feul7-yckX6P0jw?label=Lucas&style=social" />
-</a>
-
 <div align="center">
-  <a href="https://www.youtube.com/channel/UCwMUPIC4feul7-yckX6P0jw?sub_confirmation=1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.instagram.com/lucas-vieira-749a81199/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucas-vieira-749a81199/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/lucas_wramos" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/lucas-vieira-ramos/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="mailto:lucas.wieyra@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
