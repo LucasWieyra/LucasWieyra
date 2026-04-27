@@ -62,14 +62,25 @@ Liderança na criação de uma solução de **gestão de pátio** que eliminou o
 ## Ferramentas e Tecnologias
 
 <div align="center">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Power BI" height="40" width="40" src="https://github.com/marclelijveld/Power-BI-Icons-Archived/blob/master/General%20Icons%20PNG/LogoBlack.png">
-  <img align="center" alt="Snowflake" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/snowflake/snowflake-original.svg">
-  <img align="center" alt="Excel" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/0/01/Microsoft_Excel_2013_logo.svg">
-  <img align="center" alt="Google Data Studio" height="40" width="40" src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Google_Data_Studio_Logo_2020.svg">
-  <img align="center" alt="WMS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/database/database-original.svg">
-  <img align="center" alt="TMS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cloud/cloud-original.svg">
+
+💻 <b>Desenvolvimento</b><br>
+<img align="center" alt="HTML" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
+<img align="center" alt="CSS" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
+<img align="center" alt="Linux" height="35" width="45" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
+
+<br><br>
+
+📊 <b>Dados & BI</b><br>
+<img align="center" alt="Power BI" height="40" width="40" src="https://cdn.simpleicons.org/powerbi">
+<img align="center" alt="Excel" height="40" width="40" src="https://cdn.simpleicons.org/microsoftexcel">
+<img align="center" alt="Looker Studio" height="40" width="40" src="https://cdn.simpleicons.org/googleanalytics">
+<img align="center" alt="Snowflake" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/snowflake/snowflake-original.svg">
+
+<br><br>
+
+🚚 <b>Logística & Sistemas</b><br>
+<img align="center" alt="Banco de Dados" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
+<img align="center" alt="Cloud" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg">
+
 </div>
 
