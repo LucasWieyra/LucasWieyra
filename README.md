@@ -1,205 +1,221 @@
 <div align="center">
 
-# Lucas Vieira
-
-### Data · Automation · Logistics · Software
-
-Building systems that turn **operations into data** and **data into decisions**.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Vieira+%F0%9F%91%8B;Dados+%7C+Tecnologia+%7C+Log%C3%ADstica;Transformando+opera%C3%A7%C3%B5es+com+tecnologia." />
 
 <br>
 
-<a href="https://www.linkedin.com/in/lucas-vieira-ramos/">   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/> </a>   <a href="mailto:[lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)">   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/> </a>   <a href="https://github.com/LucasWieyra">   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/> </a>
+<img src="https://komarev.com/ghpvc/?username=LucasWieyra&style=flat-square&color=F97316&label=VISITAS+NO+PERFIL" />
+
+<br><br>
+
+<a href="https://www.linkedin.com/in/lucas-vieira-ramos/"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+
+<a href="mailto:[lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+
+<a href="https://github.com/LucasWieyra"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
 
 </div>
 
 ---
 
-## `whoami`
+<div align="center">
 
-I'm **Lucas Vieira**, a Brazilian technology professional focused on the intersection between:
+## ⚡ Tecnologia que resolve problemas reais
 
-```text
-DATA
-  +
-AUTOMATION
-  +
-LOGISTICS
-  +
-SOFTWARE
-```
+</div>
 
-I like taking messy operational problems and turning them into **systems, dashboards, automations and products**.
+Não gosto de tecnologia apenas pela tecnologia.
 
-My background comes from logistics and operations, which strongly influences the way I build technology:
+Gosto de entender **como uma operação funciona**, encontrar gargalos e transformar problemas do dia a dia em **dados, automações, sistemas e produtos**.
 
-> **Technology should make the operation simpler, not more complicated.**
+Minha atuação está principalmente entre:
+
+**Dados + Automação + Logística + Software**
 
 ---
 
-## What I build
+## 🧠 O que eu faço
 
-### `01` — Data & Intelligence
+<table> <tr>
 
-Turning raw operational data into information that people can actually use.
+<td width="25%" align="center">
 
-**Power BI · Power Query · SQL · Snowflake · Excel · Data Modeling**
+### 📊
+
+### Dados
+
+Dashboards, indicadores, tratamento de dados e análise operacional.
+
+</td>
+
+<td width="25%" align="center">
+
+### ⚙️
+
+### Automação
+
+Processos automatizados, integrações, APIs e eliminação de tarefas manuais.
+
+</td>
+
+<td width="25%" align="center">
+
+### 🚚
+
+### Logística
+
+Soluções para transporte, pátio, frota e operações.
+
+</td>
+
+<td width="25%" align="center">
+
+### 💻
+
+### Sistemas
+
+Aplicações web e produtos desenvolvidos para problemas reais.
+
+</td>
+
+</tr> </table>
 
 ---
 
-### `02` — Automation
+# 🚀 Projetos
 
-Replacing repetitive manual work with automated processes and integrations.
+<div align="center">
 
-**Power Automate · APIs · ETL · Low-Code · Process Automation**
+### 🏭 YMS — Gestão de Pátio
 
----
+**Controle operacional de veículos, cargas, portaria e docas.**
 
-### `03` — Logistics Technology
+Uma solução criada para transformar a operação do pátio em uma visão centralizada e em tempo real.
 
-Building systems around real operational problems.
-
-**YMS · TMS · Fleet Management · Yard Operations · Transportation · Tracking**
+`Gestão de Pátio` `Operação` `Web` `APIs`
 
 ---
-
-### `04` — Software & Products
-
-Experimenting with web applications and software products designed around real-world workflows.
-
-**React · C# · Python · JavaScript · REST APIs**
-
----
-
-# Selected Projects
-
-<table> <tr> <td width="50%">
 
 ### 🚚 Fleet Tracking
 
-A fleet monitoring platform designed to visualize vehicle locations in real time.
+**Visualização e monitoramento da frota.**
 
-The project explores low-cost tracking devices, fleet configuration and a fast operational interface.
+Projeto focado em utilizar dispositivos de baixo custo para acompanhar a localização dos veículos e disponibilizar essas informações em uma interface rápida e simples.
 
-**Status:** `In Development`
-
-</td>
-
-<td width="50%">
-
-### 🏭 Yard Management
-
-A web-based YMS focused on managing vehicles, gates, docks and yard operations.
-
-Built around the idea of giving the operation a real-time view of what is happening inside the yard.
-
-**Status:** `In Development`
-
-</td> </tr>
-
-<tr> <td width="50%">
-
-### 📊 Operational Intelligence
-
-Data solutions focused on logistics KPIs, operational performance and decision-making.
-
-From raw data → transformation → indicators → dashboards.
-
-**Status:** `Active`
-
-</td>
-
-<td width="50%">
-
-### 💻 BytePlan
-
-Technology projects focused on building software and digital solutions for operational environments.
-
-**Technology + Operations + Product**
-
-**Status:** `Building`
-
-</td> </tr> </table>
+`Rastreamento` `Frota` `Geolocalização` `Monitoramento`
 
 ---
 
-# Stack
+### 📊 Inteligência Operacional
 
-<div align="center">
+**Dados transformados em decisões.**
 
-### Data
+Dashboards e estruturas analíticas para acompanhar indicadores, produtividade, custos e desempenho operacional.
 
-<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark"/>
+`Power BI` `SQL` `Power Query` `Snowflake`
 
-<br><br>
+---
 
-### Development
+### 💻 BytePlan
 
-<img src="https://skillicons.dev/icons?i=react,js,html,css,cs&theme=dark"/>
+**Tecnologia aplicada à operação.**
 
-<br><br>
+Projetos e produtos voltados para empresas que precisam transformar processos manuais em operações mais organizadas, mensuráveis e digitais.
 
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark"/>
+`Software` `Automação` `Logística` `Produto`
 
 </div>
 
 ---
 
-# Beyond the Stack
+# 🛠️ Tecnologias
 
-I don't really like defining my work only by the tools I use.
+<div align="center">
 
-The interesting part is the **problem behind the technology**.
+<img src="https://skillicons.dev/icons?i=react,js,html,css,cs,python,mysql,postgres,git,github,docker&perline=6" />
 
-```text
-Understand the operation
-        ↓
-Find the bottleneck
-        ↓
-Structure the data
-        ↓
-Build the solution
-        ↓
-Measure the result
-        ↓
-Improve
-```
+<br><br>
 
-That's the cycle I try to follow in my projects.
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+
+</div>
 
 ---
 
-# Currently building
+# 🔄 Como eu penso um projeto
+
+<div align="center">
 
 ```text
-┌──────────────────────────────────────────────┐
-│                                              │
-│   Fleet Tracking                             │
-│   Yard Management                            │
-│   Operational Dashboards                     │
-│   Logistics Automation                       │
-│   Software Products                           │
-│                                              │
-└──────────────────────────────────────────────┘
+        PROBLEMA
+           │
+           ▼
+     ENTENDER A OPERAÇÃO
+           │
+           ▼
+       ORGANIZAR DADOS
+           │
+           ▼
+       CRIAR SOLUÇÃO
+           │
+           ▼
+       AUTOMATIZAR
+           │
+           ▼
+       MEDIR RESULTADO
+           │
+           ▼
+        MELHORAR
 ```
 
-I'm especially interested in creating **simple interfaces for complex operations**.
+</div>
 
-Fast systems.
-Clear information.
-Less manual work.
+---
+
+# 📈 GitHub
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasWieyra&show_icons=true&hide_border=true&theme=transparent&title_color=F97316&icon_color=F97316&text_color=9CA3AF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWieyra&layout=compact&hide_border=true&theme=transparent&title_color=F97316&text_color=9CA3AF" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=LucasWieyra&theme=transparent&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" />
+
+</div>
+
+---
+
+# 🐍 Minha atividade
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
+
+</div>
 
 ---
 
 <div align="center">
 
-### Let's build something useful.
+## Atualmente construindo
 
-<br>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=900&color=F97316&center=true&vCenter=true&width=650&lines=Gest%C3%A3o+de+P%C3%A1tio;Fleet+Tracking;Solu%C3%A7%C3%B5es+Log%C3%ADsticas;Dashboards+Operacionais;Produtos+de+Software" />
 
-**Lucas Vieira**
+<br><br>
 
-Data · Automation · Logistics · Software
+**Menos trabalho manual.**
+**Mais informação.**
+**Melhores decisões.**
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=F97316&height=100&section=footer"/>
 
 </div>
