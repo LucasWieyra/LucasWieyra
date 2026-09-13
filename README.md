@@ -1,148 +1,205 @@
-# Lucas Vieira
-
-### Analista de Dados | BI | Automação | Logística & Tecnologia
-
-Transformo **dados e processos operacionais em soluções mais simples, eficientes e mensuráveis**.
-
-Atuo principalmente na interseção entre **Dados, Logística, Automação e Tecnologia**, desenvolvendo dashboards, aplicações low-code, integrações e soluções voltadas para operações reais.
-
-Tenho experiência com análise de dados, construção de indicadores, automação de processos e desenvolvimento de soluções para operações logísticas.
-
----
-
-## Sobre mim
-
-Sou apaixonado por entender **como uma operação funciona, onde estão os gargalos e como a tecnologia pode melhorar esse processo**.
-
-Meu trabalho vai além de criar dashboards: procuro entender o problema na operação, estruturar os dados e transformar a informação em algo que possa ser utilizado para **tomada de decisão e melhoria de processos**.
-
-Atualmente, meus principais interesses estão em:
-
-* Análise de dados e Business Intelligence
-* Automação de processos
-* Engenharia e transformação de dados
-* Sistemas para operações logísticas
-* Low-code / No-code
-* Integração entre sistemas e APIs
-* Gestão de pátio, transporte e operações
-* Desenvolvimento de produtos e soluções próprias
-
----
-
-## Projetos em destaque
-
-### 🚚 Operation Flux
-
-Solução desenvolvida para digitalização e acompanhamento de processos logísticos.
-
-A aplicação foi estruturada para acompanhar diferentes etapas da operação, como:
-
-* Packing
-* Expedição
-* Recebimento
-* Devolução
-* Operações fracionadas
-
-O objetivo é aumentar a **rastreabilidade, produtividade e visibilidade da operação**, permitindo identificar responsáveis, etapas e ocorrências durante o processo.
-
-**Tecnologias:** Power Platform · Power Automate · Power BI · SQL · Low-code
-
----
-
-### 🏭 Gestão de Pátio
-
-Projeto voltado para digitalização e automação da gestão de pátio.
-
-A solução permite acompanhar a movimentação de veículos e cargas, organizar etapas operacionais e fornecer uma visão mais clara do fluxo dentro da operação.
-
-O projeto evoluiu de uma solução baseada em ferramentas como **Excel, Power Automate e QR Codes** para uma aplicação web dedicada à gestão operacional.
-
-**Tecnologias:** APIs · Low-code · Power Automate · Power BI · Retool
-
----
-
-### 📊 Data & BI
-
-Desenvolvimento de dashboards e soluções analíticas para transformar grandes volumes de dados operacionais em indicadores utilizados na tomada de decisão.
-
-Atuação envolvendo:
-
-* Tratamento e transformação de dados
-* Criação de KPIs
-* Automação de atualizações
-* Modelagem de dados
-* Análise de indicadores operacionais
-* Dashboards gerenciais e operacionais
-
----
-
-## Stack
-
-### Data & BI
-
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
-</p>
-
-### Automação & Low-code
-
-<p>   <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=power-automate&logoColor=white"/>   <img src="https://img.shields.io/badge/Retool-0D0D0D?style=for-the-badge&logo=retool&logoColor=white"/>   <img src="https://img.shields.io/badge/Appsmith-2D2D2D?style=for-the-badge&logo=appsmith&logoColor=white"/> </p>
-
-### Desenvolvimento
-
-<p>   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> </p>
-
-### Integrações & Sistemas
-
-<p>   <img src="https://img.shields.io/badge/API-Integration-6E56CF?style=for-the-badge"/>   <img src="https://img.shields.io/badge/ETL-Data%20Pipelines-444444?style=for-the-badge"/>   <img src="https://img.shields.io/badge/Git-GitHub-F05032?style=for-the-badge&logo=git&logoColor=white"/> </p>
-
----
-
-## Áreas de interesse
-
-```text
-Data Analytics
-Business Intelligence
-Logistics Technology
-Process Automation
-Low-Code Applications
-Data Integration
-Operational Intelligence
-Fleet & Yard Management
-```
-
----
-
-## Atualmente
-
-Estou trabalhando em projetos que conectam **tecnologia e operação**, criando soluções próprias para problemas encontrados no dia a dia de empresas e operações logísticas.
-
-Meu objetivo é construir sistemas que sejam:
-
-**simples de usar → rápidos → mensuráveis → orientados a dados**
-
----
-
-## Contato
-
 <div align="center">
 
-<a href="https://www.linkedin.com/in/lucas-vieira-ramos/">   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+# Lucas Vieira
 
-<a href="mailto:[lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)">   <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+### Data · Automation · Logistics · Software
 
-<a href="https://www.instagram.com/lucas_wramos">   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> </a>
+Building systems that turn **operations into data** and **data into decisions**.
+
+<br>
+
+<a href="https://www.linkedin.com/in/lucas-vieira-ramos/">   <img src="https://img.shields.io/badge/LinkedIn-111111?style=flat-square&logo=linkedin&logoColor=white"/> </a>   <a href="mailto:[lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)">   <img src="https://img.shields.io/badge/Email-111111?style=flat-square&logo=gmail&logoColor=white"/> </a>   <a href="https://github.com/LucasWieyra">   <img src="https://img.shields.io/badge/GitHub-111111?style=flat-square&logo=github&logoColor=white"/> </a>
 
 </div>
 
 ---
 
+## `whoami`
+
+I'm **Lucas Vieira**, a Brazilian technology professional focused on the intersection between:
+
+```text
+DATA
+  +
+AUTOMATION
+  +
+LOGISTICS
+  +
+SOFTWARE
+```
+
+I like taking messy operational problems and turning them into **systems, dashboards, automations and products**.
+
+My background comes from logistics and operations, which strongly influences the way I build technology:
+
+> **Technology should make the operation simpler, not more complicated.**
+
+---
+
+## What I build
+
+### `01` — Data & Intelligence
+
+Turning raw operational data into information that people can actually use.
+
+**Power BI · Power Query · SQL · Snowflake · Excel · Data Modeling**
+
+---
+
+### `02` — Automation
+
+Replacing repetitive manual work with automated processes and integrations.
+
+**Power Automate · APIs · ETL · Low-Code · Process Automation**
+
+---
+
+### `03` — Logistics Technology
+
+Building systems around real operational problems.
+
+**YMS · TMS · Fleet Management · Yard Operations · Transportation · Tracking**
+
+---
+
+### `04` — Software & Products
+
+Experimenting with web applications and software products designed around real-world workflows.
+
+**React · C# · Python · JavaScript · REST APIs**
+
+---
+
+# Selected Projects
+
+<table> <tr> <td width="50%">
+
+### 🚚 Fleet Tracking
+
+A fleet monitoring platform designed to visualize vehicle locations in real time.
+
+The project explores low-cost tracking devices, fleet configuration and a fast operational interface.
+
+**Status:** `In Development`
+
+</td>
+
+<td width="50%">
+
+### 🏭 Yard Management
+
+A web-based YMS focused on managing vehicles, gates, docks and yard operations.
+
+Built around the idea of giving the operation a real-time view of what is happening inside the yard.
+
+**Status:** `In Development`
+
+</td> </tr>
+
+<tr> <td width="50%">
+
+### 📊 Operational Intelligence
+
+Data solutions focused on logistics KPIs, operational performance and decision-making.
+
+From raw data → transformation → indicators → dashboards.
+
+**Status:** `Active`
+
+</td>
+
+<td width="50%">
+
+### 💻 BytePlan
+
+Technology projects focused on building software and digital solutions for operational environments.
+
+**Technology + Operations + Product**
+
+**Status:** `Building`
+
+</td> </tr> </table>
+
+---
+
+# Stack
+
 <div align="center">
 
-**Dados + Tecnologia + Operação**
+### Data
+
+<img src="https://skillicons.dev/icons?i=python,mysql,postgres&theme=dark"/>
+
+<br><br>
+
+### Development
+
+<img src="https://skillicons.dev/icons?i=react,js,html,css,cs&theme=dark"/>
+
+<br><br>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker&theme=dark"/>
+
+</div>
+
+---
+
+# Beyond the Stack
+
+I don't really like defining my work only by the tools I use.
+
+The interesting part is the **problem behind the technology**.
+
+```text
+Understand the operation
+        ↓
+Find the bottleneck
+        ↓
+Structure the data
+        ↓
+Build the solution
+        ↓
+Measure the result
+        ↓
+Improve
+```
+
+That's the cycle I try to follow in my projects.
+
+---
+
+# Currently building
+
+```text
+┌──────────────────────────────────────────────┐
+│                                              │
+│   Fleet Tracking                             │
+│   Yard Management                            │
+│   Operational Dashboards                     │
+│   Logistics Automation                       │
+│   Software Products                           │
+│                                              │
+└──────────────────────────────────────────────┘
+```
+
+I'm especially interested in creating **simple interfaces for complex operations**.
+
+Fast systems.
+Clear information.
+Less manual work.
+
+---
+
+<div align="center">
+
+### Let's build something useful.
+
+<br>
+
+**Lucas Vieira**
+
+Data · Automation · Logistics · Software
 
 </div>
