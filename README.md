@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Vieira+%F0%9F%91%8B;Dados+%7C+Tecnologia+%7C+Log%C3%ADstica;Transformando+opera%C3%A7%C3%B5es+com+tecnologia." />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Vieira+%F0%9F%91%8B;Dados+%7C+Tecnologia+%7C+Log%C3%ADstica+%7C+Software;Transformando+opera%C3%A7%C3%B5es+com+tecnologia" />
 
 <br>
 
@@ -8,7 +8,9 @@
 
 <br><br>
 
-<a href="https://www.linkedin.com/in/lucas-vieira-ramos/"> <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/lucas-vieira-ramos/">
+<img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
 <a href="mailto:[lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
 
@@ -20,7 +22,7 @@
 
 <div align="center">
 
-## ⚡ Tecnologia que resolve problemas reais
+## Tecnologia que resolve problemas reais
 
 </div>
 
@@ -34,13 +36,11 @@ Minha atuação está principalmente entre:
 
 ---
 
-## 🧠 O que eu faço
+## O que eu faço
 
 <table> <tr>
 
 <td width="25%" align="center">
-
-### 📊
 
 ### Dados
 
@@ -50,8 +50,6 @@ Dashboards, indicadores, tratamento de dados e análise operacional.
 
 <td width="25%" align="center">
 
-### ⚙️
-
 ### Automação
 
 Processos automatizados, integrações, APIs e eliminação de tarefas manuais.
@@ -59,8 +57,6 @@ Processos automatizados, integrações, APIs e eliminação de tarefas manuais.
 </td>
 
 <td width="25%" align="center">
-
-### 🚚
 
 ### Logística
 
@@ -70,23 +66,25 @@ Soluções para transporte, pátio, frota e operações.
 
 <td width="25%" align="center">
 
-### 💻
-
 ### Sistemas
 
 Aplicações web e produtos desenvolvidos para problemas reais.
 
 </td>
 
-</tr> </table>
+</tr>
+</table>
 
 ---
 
-# 🚀 Projetos
+# Projetos
 
-<div align="center">
+<table>
+<tr>
 
-### 🏭 YMS — Gestão de Pátio
+<td width="50%">
+
+### YMS — Gestão de Pátio
 
 **Controle operacional de veículos, cargas, portaria e docas.**
 
@@ -94,19 +92,27 @@ Uma solução criada para transformar a operação do pátio em uma visão centr
 
 `Gestão de Pátio` `Operação` `Web` `APIs`
 
----
+</td>
 
-### 🚚 Fleet Tracking
+<td width="50%">
+
+### Fleet Tracking
 
 **Visualização e monitoramento da frota.**
 
 Projeto focado em utilizar dispositivos de baixo custo para acompanhar a localização dos veículos e disponibilizar essas informações em uma interface rápida e simples.
 
-`Rastreamento` `Frota` `Geolocalização` `Monitoramento`
+`Rastreamento` `Frota` `Geolocalização`
 
----
+</td>
 
-### 📊 Inteligência Operacional
+</tr>
+
+<tr>
+
+<td width="50%">
+
+### Inteligência Operacional
 
 **Dados transformados em decisões.**
 
@@ -114,21 +120,26 @@ Dashboards e estruturas analíticas para acompanhar indicadores, produtividade, 
 
 `Power BI` `SQL` `Power Query` `Snowflake`
 
----
+</td>
 
-### 💻 BytePlan
+<td width="50%">
+
+### BytePlan
 
 **Tecnologia aplicada à operação.**
 
-Projetos e produtos voltados para empresas que precisam transformar processos manuais em operações mais organizadas, mensuráveis e digitais.
+Projetos e produtos voltados para transformar processos manuais em operações mais organizadas, mensuráveis e digitais.
 
 `Software` `Automação` `Logística` `Produto`
 
-</div>
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🛠️ Tecnologias
+# Tecnologias
 
 <div align="center">
 
@@ -136,55 +147,72 @@ Projetos e produtos voltados para empresas que precisam transformar processos ma
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/> <img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/> <img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/> <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+<img src="https://img.shields.io/badge/Power%20Automate-0066FF?style=for-the-badge&logo=microsoftpowerautomate&logoColor=white"/>
+<img src="https://img.shields.io/badge/Power%20Query-217346?style=for-the-badge&logo=microsoft&logoColor=white"/>
+<img src="https://img.shields.io/badge/Snowflake-29B5E8?style=for-the-badge&logo=snowflake&logoColor=white"/>
 
 </div>
 
 ---
 
-# 🔄 Como eu penso um projeto
+# Como eu penso um projeto
 
 <div align="center">
 
 ```text
-        PROBLEMA
-           │
-           ▼
-     ENTENDER A OPERAÇÃO
-           │
-           ▼
-       ORGANIZAR DADOS
-           │
-           ▼
-       CRIAR SOLUÇÃO
-           │
-           ▼
-       AUTOMATIZAR
-           │
-           ▼
-       MEDIR RESULTADO
-           │
-           ▼
-        MELHORAR
+┌──────────────┐
+│   PROBLEMA   │
+└──────┬───────┘
+       ↓
+┌──────────────────────┐
+│ ENTENDER A OPERAÇÃO  │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│  ORGANIZAR OS DADOS  │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│    CRIAR SOLUÇÃO     │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│      AUTOMATIZAR     │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│   MEDIR RESULTADO    │
+└──────────┬───────────┘
+           ↓
+┌──────────────────────┐
+│      MELHORAR        │
+└──────────────────────┘
 ```
 
 </div>
 
 ---
 
-# 📈 GitHub
+# Fluxo
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasWieyra&show_icons=true&hide_border=true&theme=transparent&title_color=F97316&icon_color=F97316&text_color=9CA3AF" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWieyra&layout=compact&hide_border=true&theme=transparent&title_color=F97316&text_color=9CA3AF" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=700&color=F97316&center=true&vCenter=true&width=750&lines=DADOS+%E2%86%92+PROCESSAMENTO+%E2%86%92+AUTOMA%C3%87%C3%83O+%E2%86%92+RESULTADO;PROBLEMA+%E2%86%92+SOLU%C3%87%C3%83O+%E2%86%92+INDICADOR+%E2%86%92+DECIS%C3%83O" />
 
 </div>
 
-<br>
+---
+
+# GitHub
 
 <div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=LucasWieyra&show_icons=true&hide_border=true&theme=transparent&title_color=F97316&icon_color=F97316&text_color=9CA3AF&rank_icon=github" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LucasWieyra&layout=compact&hide_border=true&theme=transparent&title_color=F97316&text_color=9CA3AF" />
+
+<br><br>
 
 <img src="https://streak-stats.demolab.com?user=LucasWieyra&theme=transparent&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316" />
 
@@ -192,11 +220,11 @@ Projetos e produtos voltados para empresas que precisam transformar processos ma
 
 ---
 
-# 🐍 Minha atividade
+# Atividade no GitHub
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Animação das contribuições do GitHub" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasWieyra&bg_color=00000000&color=9CA3AF&line=F97316&point=F97316&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" width="95%"/>
 
 </div>
 
