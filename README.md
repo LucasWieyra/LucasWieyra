@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Vieira+%F0%9F%91%8B;Dados+%7C+Tecnologia+%7C+Log%C3%ADstica+%7C+Software;Transformando+opera%C3%A7%C3%B5es+com+tecnologia" />
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=28&pause=1000&color=F97316&center=true&vCenter=true&width=700&lines=Ol%C3%A1%2C+eu+sou+Lucas+Vieira;Dados+%7C+Tecnologia+%7C+Log%C3%ADstica+%7C+Software;Transformando+opera%C3%A7%C3%B5es+com+tecnologia" />
 
 <br>
 
@@ -12,9 +12,13 @@
 <img src="https://img.shields.io/badge/LinkedIn-111827?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:[lucas.wieyra@gmail.com](mailto:lucas.wieyra@gmail.com)"> <img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/> </a>
+<a href="mailto:lucas.wieyra@gmail.com">
+<img src="https://img.shields.io/badge/Email-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<a href="https://github.com/LucasWieyra"> <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/> </a>
+<a href="https://github.com/LucasWieyra">
+<img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </div>
 
@@ -38,7 +42,8 @@ Minha atuação está principalmente entre:
 
 ## O que eu faço
 
-<table> <tr>
+<table>
+<tr>
 
 <td width="25%" align="center">
 
@@ -194,16 +199,6 @@ Projetos e produtos voltados para transformar processos manuais em operações m
 
 ---
 
-# Fluxo
-
-<div align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=700&color=F97316&center=true&vCenter=true&width=750&lines=DADOS+%E2%86%92+PROCESSAMENTO+%E2%86%92+AUTOMA%C3%87%C3%83O+%E2%86%92+RESULTADO;PROBLEMA+%E2%86%92+SOLU%C3%87%C3%83O+%E2%86%92+INDICADOR+%E2%86%92+DECIS%C3%83O" />
-
-</div>
-
----
-
 # GitHub
 
 <div align="center">
@@ -220,11 +215,11 @@ Projetos e produtos voltados para transformar processos manuais em operações m
 
 ---
 
-# Atividade no GitHub
-
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasWieyra&bg_color=00000000&color=9CA3AF&line=F97316&point=F97316&area=true&hide_border=true&custom_title=Atividade%20no%20GitHub" width="95%"/>
+## Atividade
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasWieyra&bg_color=1f252d&color=9CA3AF&line=F97316&point=F97316&area=true&hide_border=true&custom_title=Contribui%C3%A7%C3%B5es%20no%20GitHub" width="95%" />
 
 </div>
 
